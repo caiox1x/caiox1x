@@ -1,9 +1,9 @@
 ## Olá eu sou o Caio, Desenvolvedor Web!
-<div align="center">
+<div style="display: inline_block"  align="center">
   <a href="https://github.com/caiox1x">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiox1x&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiox1x&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiox1x&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiox1x&layout=compact&langs_count=7&theme=dark"/>
+</div> 
 <div style="display: inline_block"><br>
   <img align="center" alt="Caio-Js" height="30" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
