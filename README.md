@@ -32,10 +32,8 @@
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiox1x&label=Profile%20views&color=0e75b6&style=flat" alt="caiox1x" /> </p>
 
-<p align="left">
+<p align="center">
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caiox1x&" alt="caiox1x" /></p>
 
 </div>
   
